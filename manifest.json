@@ -1,0 +1,19 @@
+{
+  "name": "همراه ماهانه",
+  "short_name": "همراه",
+  "description": "همراه هوشمند چرخه‌ی قاعدگی با چت‌بات و همدم",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fdf2f6",
+  "theme_color": "#f8e8ee",
+  "dir": "rtl",
+  "lang": "fa",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌸</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
